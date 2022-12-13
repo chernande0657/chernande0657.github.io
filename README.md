@@ -4,7 +4,7 @@ This is my home page! My name is Christian Hernandez and I am a student at [Cal 
 
 ## Computer Science Projects
 
-My GitHub page is https://github.com/chernande0657/chernande0657.github.io.git
+My GitHub page is chernande0657
 
 ### CPSC 120
 
